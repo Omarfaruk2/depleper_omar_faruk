@@ -1,3 +1,45 @@
 body{
     margin: 0;
+    font-family: 'Qwitcher Grypen', cursive;
+    background-color: rgba(0,0,0,.45);
+}
+.frist-part{
+    background-image: url(./image/top-banner.png);
+    background-repeat:no-repeat ;
+}
+.flexible{
+    display: flex;
+
+}
+.width{
+    width: 50%;
+    margin-left: 5%;
+}
+.image{
+    width: 80%;
+}
+.orange{
+    color: orange;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+h1 {
+    font-size: 42px;
+}
+button{
+    padding: 12px 20px;
+    background-image:linear-gradient(red,tomato);
+    border: none;
+    border-radius: 10px;
+    
+}
+.contact{
+    text-decoration: none;
+    color:rgb(242, 255, 59);
+
+    
 }
